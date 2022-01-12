@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crackedego
 - 👀 I’m interested in learning and the arts
-- 🌱 I’m currently learning JavaScript
+- 🌱 Currently learning Bootstrap
 - 💞️ I’m looking to collaborate on any projects where you need an extra hand or projects involving animation.
 - 📫 You can check out my stuff at crackedego.com
 
